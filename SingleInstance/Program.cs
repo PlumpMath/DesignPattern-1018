@@ -10,6 +10,7 @@ namespace SingleInstance
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
