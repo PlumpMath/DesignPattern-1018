@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{5973A22F-E3E2-41CD-90C2-5BEBA8B33ED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInstance", "SingleInstance\SingleInstance.csproj", "{59774F8D-70C1-44B8-A736-BF53A3239E64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInstance_WindowsFormsApplication1", "SingleInstance_WindowsFormsApplication1\SingleInstance_WindowsFormsApplication1.csproj", "{95DCC214-B6E7-4B4A-98E2-2A972E5708ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5973A22F-E3E2-41CD-90C2-5BEBA8B33ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5973A22F-E3E2-41CD-90C2-5BEBA8B33ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5973A22F-E3E2-41CD-90C2-5BEBA8B33ED4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{59774F8D-70C1-44B8-A736-BF53A3239E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59774F8D-70C1-44B8-A736-BF53A3239E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59774F8D-70C1-44B8-A736-BF53A3239E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59774F8D-70C1-44B8-A736-BF53A3239E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DCC214-B6E7-4B4A-98E2-2A972E5708ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DCC214-B6E7-4B4A-98E2-2A972E5708ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DCC214-B6E7-4B4A-98E2-2A972E5708ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DCC214-B6E7-4B4A-98E2-2A972E5708ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
